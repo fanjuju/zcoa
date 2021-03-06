@@ -1,0 +1,7 @@
+2021-01-14 11:08:21,847 INFO [root] [base.py (__init__:12] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="d6e2e5fdb71f5e9a3324ed934f422a95")>
+2021-01-14 11:08:21,876 INFO [root] [base.py (base_click:22] - 正在点击:('xpath', '//span[@slot="title" and text() = "供应商管理"]')元素
+2021-01-14 11:08:21,876 INFO [root] [base.py (base_find_element:17] - 正在查找元素：('xpath', '//span[@slot="title" and text() = "供应商管理"]')元素，最多等待：30秒
+2021-01-14 11:08:23,932 INFO [root] [base.py (base_click:22] - 正在点击:('xpath', '//ul[@role="menu"]/li[text() = " 供应商引入 "]')元素
+2021-01-14 11:08:23,932 INFO [root] [base.py (base_find_element:17] - 正在查找元素：('xpath', '//ul[@role="menu"]/li[text() = " 供应商引入 "]')元素，最多等待：30秒
+2021-01-14 11:08:25,991 INFO [root] [base.py (base_click:22] - 正在点击:('xpath', '//button[@type="button"]/span[text()="新增"]')元素
+2021-01-14 11:08:25,991 INFO [root] [base.py (base_find_element:17] - 正在查找元素：('xpath', '//button[@type="button"]/span[text()="新增"]')元素，最多等待：30秒

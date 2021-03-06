@@ -1,0 +1,2 @@
+2021-03-04 16:38:32,046 INFO [root] [base.py (__init__:12] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="150ee897ab5692443e65917be8df534c")>
+2021-03-04 16:38:32,083 INFO [root] [base.py (base_add_cookie:39] - 正在添加cookie=====

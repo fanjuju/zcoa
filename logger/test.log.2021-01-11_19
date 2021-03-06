@@ -1,0 +1,4 @@
+2021-01-11 19:09:27,445 INFO [root] [base.py (__init__:12] - 正在初始化获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="edd54be127d8fa811282072488f3fe16")>
+2021-01-11 19:09:27,449 ERROR [root] [base.py (base_get_image:71] - 报错截图
+2021-01-11 19:09:27,933 ERROR [root] [base.py (base_get_image:71] - 报错截图
+2021-01-11 19:09:28,225 ERROR [root] [base.py (base_get_image:71] - 报错截图
